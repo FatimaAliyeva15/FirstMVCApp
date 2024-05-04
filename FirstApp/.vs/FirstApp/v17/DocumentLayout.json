@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\TaskFirstApp\\FirstApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D964CE7-F757-48FE-98D4-F69620F1D3B4}|FirstApp\\FirstApp.csproj|c:\\users\\asus\\desktop\\taskfirstapp\\firstapp\\firstapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D964CE7-F757-48FE-98D4-F69620F1D3B4}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D964CE7-F757-48FE-98D4-F69620F1D3B4}|FirstApp\\FirstApp.csproj|c:\\users\\asus\\desktop\\taskfirstapp\\firstapp\\firstapp\\controllers\\designcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D964CE7-F757-48FE-98D4-F69620F1D3B4}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\controllers\\designcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D964CE7-F757-48FE-98D4-F69620F1D3B4}|FirstApp\\FirstApp.csproj|c:\\users\\asus\\desktop\\taskfirstapp\\firstapp\\firstapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D964CE7-F757-48FE-98D4-F69620F1D3B4}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D964CE7-F757-48FE-98D4-F69620F1D3B4}|FirstApp\\FirstApp.csproj|c:\\users\\asus\\desktop\\taskfirstapp\\firstapp\\firstapp\\views\\design\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D964CE7-F757-48FE-98D4-F69620F1D3B4}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\views\\design\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D964CE7-F757-48FE-98D4-F69620F1D3B4}|FirstApp\\FirstApp.csproj|c:\\users\\asus\\desktop\\taskfirstapp\\firstapp\\firstapp\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D964CE7-F757-48FE-98D4-F69620F1D3B4}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D964CE7-F757-48FE-98D4-F69620F1D3B4}|FirstApp\\FirstApp.csproj|c:\\users\\asus\\desktop\\taskfirstapp\\firstapp\\firstapp\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D964CE7-F757-48FE-98D4-F69620F1D3B4}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D964CE7-F757-48FE-98D4-F69620F1D3B4}|FirstApp\\FirstApp.csproj|c:\\users\\asus\\desktop\\taskfirstapp\\firstapp\\firstapp\\models\\furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D964CE7-F757-48FE-98D4-F69620F1D3B4}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\models\\furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D964CE7-F757-48FE-98D4-F69620F1D3B4}|FirstApp\\FirstApp.csproj|c:\\users\\asus\\desktop\\taskfirstapp\\firstapp\\firstapp\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D964CE7-F757-48FE-98D4-F69620F1D3B4}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D964CE7-F757-48FE-98D4-F69620F1D3B4}|FirstApp\\FirstApp.csproj|c:\\users\\asus\\desktop\\taskfirstapp\\firstapp\\firstapp\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D964CE7-F757-48FE-98D4-F69620F1D3B4}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D964CE7-F757-48FE-98D4-F69620F1D3B4}|FirstApp\\FirstApp.csproj|c:\\users\\asus\\desktop\\taskfirstapp\\firstapp\\firstapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D964CE7-F757-48FE-98D4-F69620F1D3B4}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D964CE7-F757-48FE-98D4-F69620F1D3B4}|FirstApp\\FirstApp.csproj|c:\\users\\asus\\desktop\\taskfirstapp\\firstapp\\firstapp\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D964CE7-F757-48FE-98D4-F69620F1D3B4}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D964CE7-F757-48FE-98D4-F69620F1D3B4}|FirstApp\\FirstApp.csproj|c:\\users\\asus\\desktop\\taskfirstapp\\firstapp\\firstapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D964CE7-F757-48FE-98D4-F69620F1D3B4}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D964CE7-F757-48FE-98D4-F69620F1D3B4}|FirstApp\\FirstApp.csproj|c:\\users\\asus\\desktop\\taskfirstapp\\firstapp\\firstapp\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D964CE7-F757-48FE-98D4-F69620F1D3B4}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D964CE7-F757-48FE-98D4-F69620F1D3B4}|FirstApp\\FirstApp.csproj|c:\\users\\asus\\desktop\\taskfirstapp\\firstapp\\firstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D964CE7-F757-48FE-98D4-F69620F1D3B4}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D964CE7-F757-48FE-98D4-F69620F1D3B4}|FirstApp\\FirstApp.csproj|c:\\users\\asus\\desktop\\taskfirstapp\\firstapp\\firstapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D964CE7-F757-48FE-98D4-F69620F1D3B4}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Furniture.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskFirstApp\\FirstApp\\FirstApp\\Models\\Furniture.cs",
+              "RelativeDocumentMoniker": "FirstApp\\Models\\Furniture.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskFirstApp\\FirstApp\\FirstApp\\Models\\Furniture.cs",
+              "RelativeToolTip": "FirstApp\\Models\\Furniture.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:38:46.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskFirstApp\\FirstApp\\FirstApp\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstApp\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskFirstApp\\FirstApp\\FirstApp\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "FirstApp\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T15:32:58.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskFirstApp\\FirstApp\\FirstApp\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "FirstApp\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskFirstApp\\FirstApp\\FirstApp\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "FirstApp\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:32:53.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskFirstApp\\FirstApp\\FirstApp\\Views\\Design\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstApp\\Views\\Design\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskFirstApp\\FirstApp\\FirstApp\\Views\\Design\\Index.cshtml",
+              "RelativeToolTip": "FirstApp\\Views\\Design\\Index.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T15:30:41.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DesignController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskFirstApp\\FirstApp\\FirstApp\\Controllers\\DesignController.cs",
+              "RelativeDocumentMoniker": "FirstApp\\Controllers\\DesignController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskFirstApp\\FirstApp\\FirstApp\\Controllers\\DesignController.cs",
+              "RelativeToolTip": "FirstApp\\Controllers\\DesignController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:30:33.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskFirstApp\\FirstApp\\FirstApp\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstApp\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskFirstApp\\FirstApp\\FirstApp\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "FirstApp\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T15:28:26.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskFirstApp\\FirstApp\\FirstApp\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "FirstApp\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskFirstApp\\FirstApp\\FirstApp\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "FirstApp\\Controllers\\ShopController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:28:17.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskFirstApp\\FirstApp\\FirstApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FirstApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskFirstApp\\FirstApp\\FirstApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FirstApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T15:23:57.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskFirstApp\\FirstApp\\FirstApp\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstApp\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskFirstApp\\FirstApp\\FirstApp\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "FirstApp\\Views\\About\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T15:10:27.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskFirstApp\\FirstApp\\FirstApp\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "FirstApp\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskFirstApp\\FirstApp\\FirstApp\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "FirstApp\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:10:17.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskFirstApp\\FirstApp\\FirstApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FirstApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskFirstApp\\FirstApp\\FirstApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FirstApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADgAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T14:52:24.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskFirstApp\\FirstApp\\FirstApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FirstApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskFirstApp\\FirstApp\\FirstApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FirstApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T14:51:42.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskFirstApp\\FirstApp\\FirstApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskFirstApp\\FirstApp\\FirstApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FirstApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAALAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T14:50:18.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskFirstApp\\FirstApp\\FirstApp\\Program.cs",
+              "RelativeDocumentMoniker": "FirstApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskFirstApp\\FirstApp\\FirstApp\\Program.cs",
+              "RelativeToolTip": "FirstApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:46:56.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskFirstApp\\FirstApp\\FirstApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FirstApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskFirstApp\\FirstApp\\FirstApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FirstApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:46:52.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
